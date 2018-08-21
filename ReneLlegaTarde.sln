@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReneLlegaTarde", "Rene Llega Tarde\ReneLlegaTarde.csproj", "{FB2BEAE1-4A81-4CE4-8742-E3474F1DC5CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2BEAE1-4A81-4CE4-8742-E3474F1DC5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2BEAE1-4A81-4CE4-8742-E3474F1DC5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2BEAE1-4A81-4CE4-8742-E3474F1DC5CD}.Debug|x64.ActiveCfg = Debug|x64
+		{FB2BEAE1-4A81-4CE4-8742-E3474F1DC5CD}.Debug|x64.Build.0 = Debug|x64
+		{FB2BEAE1-4A81-4CE4-8742-E3474F1DC5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2BEAE1-4A81-4CE4-8742-E3474F1DC5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2BEAE1-4A81-4CE4-8742-E3474F1DC5CD}.Release|x64.ActiveCfg = Release|x64
+		{FB2BEAE1-4A81-4CE4-8742-E3474F1DC5CD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7263096B-4E4D-4C9A-95C5-484A8C5F2F7F}
+	EndGlobalSection
+EndGlobal
